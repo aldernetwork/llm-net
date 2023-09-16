@@ -1,2 +1,2 @@
 # llm-net
-A LLM-Network library
+An LLM-Network library
